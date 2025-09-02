@@ -85,9 +85,8 @@ pip install -r requirements.txt
 📌 Investment analysis – Identify profitable opportunities
 
 📌 Market insights – Understand factors affecting housing prices
-## 📜License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## 📜License
 
 The project was developed as part of the **IBM GEN AI ENGINEERING - DATA ANALYSIS WITH PYTHON on Coursera**.  
  
