@@ -32,18 +32,6 @@ A data-driven project that analyzes and predicts housing prices in King County, 
         pickle / joblib – Model saving
 
 
-## 📝Project Structure
-
-│── notebooks/           # Jupyter notebooks for EDA & modeling
-
-│── model/               # Trained ML model & preprocessing files
-
-│── data/                # Dataset CSV file
-
-│── requirements.txt     # Dependencies
-
-│── README.md            # Project documentation
-
 ## 📝Deployment
 
 To deploy this project run
